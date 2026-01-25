@@ -13,7 +13,6 @@
 Orbit Local Chat is a modern, privacy-focused Flutter chat application designed for seamless interaction with local AI models. Built with a local-first architecture, it automatically discovers [LM Studio](https://lmstudio.ai) instances on your network while keeping all your data secure on your device.
 
 **Note**: This project is under active development. Expect rapid additions and occasional breaking changes until the 1.0 experience is complete.
-![IMG_3745](https://github.com/user-attachments/assets/8a9588e3-830b-48fe-a727-f3878b062fa5)
 
 ### Key Features
 
